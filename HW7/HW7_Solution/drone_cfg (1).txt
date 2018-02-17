@@ -1,0 +1,65 @@
+<S>
+S
+</S>
+<V>
+S
+ACTION
+PP
+PREP
+PLACE
+VERB
+NEXT
+</V>
+<T>
+come
+send
+could
+can
+you
+picture
+location
+five
+A
+higher
+lower
+down
+me
+be
+turn
+capture
+fly
+alert
+clockwise
+to
+feet
+see
+</T>
+<P>
+S ::= ACTION PP PREP PLACE
+S ::= VERB NEXT
+S ::= VERB PREP PLACE
+VERB ::= be 
+VERB ::= turn 
+VERB ::= capture 
+VERB ::= fly 
+NEXT ::= alert
+NEXT ::= clockwise
+NEXT ::= picture
+PREP ::= to
+PREP ::= fly
+PREP ::= feet
+PREP ::= see
+PLACE ::= A
+PLACE ::= higher
+PLACE ::= lower
+PLACE ::= down
+PLACE ::= me
+PP ::= you
+PP ::= picture
+PP ::= location
+PP ::= five
+ACTION ::= come
+ACTION ::= send
+ACTION ::= could
+ACTION ::= can
+</P>

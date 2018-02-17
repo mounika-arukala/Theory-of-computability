@@ -1,0 +1,115 @@
+FINAL PARSER STATES:
+[PS17 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS7 PS10 PS13 PS16 ]
+Parse Tree:
+S 
+ ACTION 
+  come
+ PP 
+  five
+ PREP 
+  feet
+ PLACE 
+  down
+
+FINAL PARSER STATES:
+[PS36 | dp=2 from=0 upto=2 | C | CFP1) S ::= VERB NEXT  | PS29 PS35 ]
+Parse Tree:
+S 
+ VERB 
+  capture
+ NEXT 
+  picture
+
+FINAL PARSER STATES:
+[PS58 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS48 PS51 PS54 PS57 ]
+Parse Tree:
+S 
+ ACTION 
+  send
+ PP 
+  picture
+ PREP 
+  to
+ PLACE 
+  me
+
+FINAL PARSER STATES:
+[PS80 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS70 PS73 PS76 PS79 ]
+Parse Tree:
+S 
+ ACTION 
+  send
+ PP 
+  location
+ PREP 
+  to
+ PLACE 
+  me
+
+FINAL PARSER STATES:
+[PS102 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS92 PS95 PS98 PS101 ]
+Parse Tree:
+S 
+ ACTION 
+  could
+ PP 
+  you
+ PREP 
+  fly
+ PLACE 
+  higher
+
+FINAL PARSER STATES:
+[PS124 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS114 PS117 PS120 PS123 ]
+Parse Tree:
+S 
+ ACTION 
+  could
+ PP 
+  you
+ PREP 
+  fly
+ PLACE 
+  lower
+
+FINAL PARSER STATES:
+[PS146 | dp=4 from=0 upto=4 | C | CFP0) S ::= ACTION PP PREP PLACE  | PS136 PS139 PS142 PS145 ]
+Parse Tree:
+S 
+ ACTION 
+  can
+ PP 
+  you
+ PREP 
+  see
+ PLACE 
+  A
+
+FINAL PARSER STATES:
+[PS165 | dp=2 from=0 upto=2 | C | CFP1) S ::= VERB NEXT  | PS158 PS164 ]
+Parse Tree:
+S 
+ VERB 
+  turn
+ NEXT 
+  clockwise
+
+FINAL PARSER STATES:
+[PS187 | dp=3 from=0 upto=3 | C | CFP2) S ::= VERB PREP PLACE  | PS177 PS183 PS186 ]
+Parse Tree:
+S 
+ VERB 
+  fly
+ PREP 
+  to
+ PLACE 
+  A
+
+FINAL PARSER STATES:
+[PS206 | dp=2 from=0 upto=2 | C | CFP1) S ::= VERB NEXT  | PS199 PS205 ]
+Parse Tree:
+S 
+ VERB 
+  be
+ NEXT 
+  alert
